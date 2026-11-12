@@ -1,5 +1,7 @@
 # 19
 [[CF 19D - Points]]
+# 570
+[[CF 570D - Tree Requests]]
 # 632
 [[CF 632E - Thief in a Shop]]
 # 702
