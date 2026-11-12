@@ -8,6 +8,8 @@
 [[CF 1196F - Kth Path]]
 # 1646
 [[CF 1646D - Weight the Tree]]
+# 1987
+[[CF 1987E - Wonderful Tree!]]
 # 2029
 [[CF 2029E - Common Generator]]
 # 2074
